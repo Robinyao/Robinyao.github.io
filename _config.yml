@@ -4,7 +4,7 @@ paginate: 10
 paginate_path: "page:num"
 encoding: utf-8
 markdown: rdiscount
-name: LA
-description:  No Silver Bullet.
-url: https://lastavenger.github.io
-avatar: https://secure.gravatar.com/avatar/f122d4b03bb7c1e7fd3d89a92a6f2ea9
+name: Yoyo
+description: Mr.Curiosity
+url: https://Robinyao.github.io
+avatar: https://s.gravatar.com/avatar/c847ef2873d67f13f4e6d043e1f87f96?s=80
