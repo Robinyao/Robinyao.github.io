@@ -12,6 +12,10 @@ icon: fa-user
 * 不怎么用 Linux 的 Linux 粉丝
 * 没做过贡献的开源爱好者
 
+联系方式
+--------
+* Email: `echo -n "NTE5NjEzMzA3QHFxLmNvbQ==" | base64 -d`
+
 社区
 ----
 * [Github](https://github.com/Robinyao)
