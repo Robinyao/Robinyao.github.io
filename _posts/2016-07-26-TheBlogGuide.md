@@ -21,7 +21,7 @@ avatar: 头像地址
 ```
 
 * 清空博客文章
-> 删除 `_post` 目录下的所有文件
+> 删除 `_posts/` 目录下的所有文件
 
 * 修改评论框
 > 在 `_includes/commentbox` 中填入评论框代码（建议使用[多说](http://duoshuo.com)）
