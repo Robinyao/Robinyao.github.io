@@ -1,9 +1,23 @@
 Robinyao.github.io
 ---------------------
 
-Robinyao's Blog: http://Robinyao.github.io/
+Yoyo's Blog: http://Robinyao.github.io/
 
 If you want to use this template, read the guide at https://robinyao.github.io/2016/07/26/TheBlogGuide.html
 
 For a more out-of-box template (also maybe out-of-date), please use
 <https://github.com/LastAvenger/silk-jekyll-theme>.
+
+
+自定义
+
+* 在 links.md 中增加一条友情链接：
+`{% include link name="" link="url" desc="" %}`
+
+* 链接到指定的友情链接：
+`{% include friend name="" %}`
+
+* 增加一张 Github Card：
+`{% include github-card repo="owner/repo-name" %}`
+
+* 在 `_includes/blog-stat` 中填入网站统计代码
